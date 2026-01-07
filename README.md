@@ -1,5 +1,12 @@
 # German eBay Product Title Tagging (NER using BiLSTM-CRF)
 
+## 🏁 EvalAI Challenge
+
+This project was developed for the EvalAI challenge:
+https://eval.ai/web/challenges/challenge-page/2508/overview
+
+The goal is to perform token-level sequence labeling on German eBay product titles.
+
 This project performs **Named Entity Recognition (NER)** on German eBay product titles.  
 Each token in the product title is tagged with an appropriate aspect (e.g., *Hersteller*, *Farbe*, *Produktart*).  
 The model learns to automatically label unseen product titles for structured extraction.
