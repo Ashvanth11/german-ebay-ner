@@ -1,0 +1,7 @@
+torch
+torchcrf
+pandas
+numpy
+scikit-learn
+matplotlib
+gensim
